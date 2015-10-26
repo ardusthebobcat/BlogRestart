@@ -21,5 +21,6 @@ My previous Blog page was BlogM. I lost my notes regarding it, and it became "ea
       >>'World Bosses'?
       >>Specialized profile stuff (uploadable pics?)
 
-      
+
 #Code Review Notes!!
+  Accidentally wrote "ember new" instead of "rails new" when creating the project. When I ran rails new afterwards, it added the files in instead of overwriting the ember project. I left it as it didnt seem to create errors and I've had bad headaches (bad enough that I had to stay home Thursday). Sorry!!!!!!! :(
